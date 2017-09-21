@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Banyan Global Learning</title>
-    <link>https://bromega.github.io/bgl2017/</link>
-    <description>Recent content on Banyan Global Learning</description>
+    <title>Jerbbbbs on Banyan Global Learning</title>
+    <link>https://bromega.github.io/bgl2017/jobs/</link>
+    <description>Recent content in Jerbbbbs on Banyan Global Learning</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2015 - 2016, YourCompany; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 14 Sep 2017 21:54:35 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 14 Sep 2017 21:54:55 -0400</lastBuildDate>
     
-	<atom:link href="https://bromega.github.io/bgl2017/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bromega.github.io/bgl2017/jobs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       
       <guid>https://bromega.github.io/bgl2017/jobs/1/</guid>
       <description>Kunshan (Shanghai), China - 1-year contract Compensation  Monthly salary of 17,000 RMB. If a teacher stays for an optional second year, the monthly salary is 18,700 RMB. An additional 18,700 RMB bonus will be paid upon completion of a second-consecutive year. School housing (a single apartment or room in a shared apartment) or 3300 RMB/month stipend is provided in the first year of service. Stipend is subject to local taxation.</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://bromega.github.io/bgl2017/posts/my-first-post/</link>
-      <pubDate>Thu, 14 Sep 2017 21:54:35 -0400</pubDate>
-      
-      <guid>https://bromega.github.io/bgl2017/posts/my-first-post/</guid>
-      <description></description>
     </item>
     
   </channel>
